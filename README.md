@@ -79,7 +79,7 @@ My final model consisted of the following layers:
 
 **Batch size**
 |                   |     64   | 128      | 256      |
-| --------          | -------- | -------- | -------- |
+| :--------:          | :--------: | :--------: | :--------: |
 | Test Accuracy     | 0.941    | 0.944    | 0.940    |
 #### 4. Describe the approach taken for finding a solution and getting the validation set accuracy to be at least 0.93. Include in the discussion the results on the training, validation and test sets and where in the code these were calculated. Your approach may have been an iterative process, in which case, outline the steps you took to get to the final solution and why you chose those steps. Perhaps your solution involved an already well known implementation or architecture. In this case, discuss why you think the architecture is suitable for the current problem.
 
@@ -115,8 +115,8 @@ If an iterative approach was chosen:
 | Test Accuracy     | 0.849     | 0.845     |
 
 W/O Dropout
-|  | Standard | Wider features (*3) |
-| --------          | -------- | -------- |
+|  | Standard | Wider features(*3))  |
+| :--------:         | :--------: | :--------: |
 | Test Accuracy     | 0.935     | 0.930     |
 
 ### Test a Model on New Images
